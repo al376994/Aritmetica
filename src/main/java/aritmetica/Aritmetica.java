@@ -17,5 +17,3 @@ public class Aritmetica {
 		return dividendo / divisor;
 	}
 }
-
-public class
